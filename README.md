@@ -17,10 +17,16 @@ Este proyecto fue creado con Spring conectado mediante la base de datos H2
  Paso 2: Creación de los archivo que se van a necesitar
  Ejemplo de los archivos que se ocuparon
  ![image](https://user-images.githubusercontent.com/50559771/177463030-ca3dc1a3-9ea4-4fff-8420-12b58f991190.png)
+ 
+ 
+ 
+ 
 
 
 Paso 3: Agregar dependencia de la base de datos
 ![image](https://user-images.githubusercontent.com/50559771/177463081-d15b4fa8-8317-4f6e-995d-4c1ff7c77ee7.png)
+
+
 
 
 Paso 4. Configurar los end point a necesitar
